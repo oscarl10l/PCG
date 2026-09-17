@@ -415,9 +415,9 @@ MonoBehaviour:
   width: 12
   height: 8
   cellSize: 2
-  wallProbability: 0.45
+  wallProbability: 0.22
   rewardCount: 5
-  seed: 543
+  seed: 12345
   floorPrefab: {fileID: 7346539171058066914, guid: 0e27d882e885d914d93e74182e15b276, type: 3}
   wallPrefab: {fileID: 7450527908830374199, guid: 69a0e002b4542064ea569892ad50e94f, type: 3}
   startPrefab: {fileID: 7019052501742853047, guid: 4f2b79a260d183443a7c3cabd738b487, type: 3}
